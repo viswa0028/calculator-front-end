@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid black;   
+}
+.main1{
+    padding-left: 580px;
+    
+    
+}
+.first .second .third .forth {
+    display: grid;
+    size: auto;
+    
+}
+#button{
+    padding: 30px;
+    /* vertical-align: auto; */
+    margin: 2px;
+    width: 20px;
+}
+button{
+    width: 20px;
+    margin: 2px;
+    padding: 20px;
+}
+.fifth{
+    display: flex;
+    justify-content: auto;
+     
+}
